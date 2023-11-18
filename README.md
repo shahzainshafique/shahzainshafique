@@ -9,6 +9,14 @@
 
 ###
 
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning NextJS and Docker<br>🎯 Goals: Be better than yesterday :)<br>🎲 Fun fact: I enjoy hunting down and fixing bugs. I consider each bug fixed as a boss defeated in a video game.</p>
+
+###
+
 <img align="right" height="150" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"  />
 
 ###
