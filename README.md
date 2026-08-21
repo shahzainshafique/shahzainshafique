@@ -1,4 +1,3 @@
-## Shahzain Shafique
 
 Software engineer working on JavaScript and TypeScript infrastructure. Based in Karachi, Pakistan (UTC+5), available for remote and EOR arrangements.
 
