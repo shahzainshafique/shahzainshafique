@@ -1,55 +1,33 @@
-<h2 align="left">Hi 👋! My name is Shahzain and I'm a Software Engineer, from Karachi, Pakistan</h2>
+## Shahzain Shafique
 
-###
+Software engineer working on JavaScript and TypeScript infrastructure. Based in Karachi, Pakistan (UTC+5), available for remote and EOR arrangements.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzainshafique&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+I work on the parts of a system that are load-bearing and unglamorous: build tooling, type-level correctness, runtime performance, and the developer-facing surfaces of AI tooling. Most of my public work is contribution to projects I use rather than projects I own.
 
-###
+**Stack:** TypeScript, Node.js, React, Next.js. Python for reading and small tooling.
 
-<h2 align="left">About me</h2>
+---
 
-###
+### Open source contributions
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning NextJS and Docker<br>🎯 Goals: Be better than yesterday :)<br>🎲 Fun fact: I enjoy hunting down and fixing bugs. I consider each bug fixed as a boss defeated in a video game.</p>
+| Project | Contribution | Status |
+|---|---|---|
+| ansvisor ([REPO_URL](https://github.com/ansvisor/ansvisor/)) | Fixes slug collisions by transliterating non-ASCII characters before stripping, centralizes the logic in a shared helper, and adds coverage for Turkish and other accented characters without backfilling existing slugs. ([PR_URL](https://github.com/ansvisor/ansvisor/pull/763)) | Merged |
 
-###
+Review participation and smaller fixes are visible in my [public activity](https://github.com/shahzainshafique?tab=overview).
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"  />
+---
 
-###
+### Write-ups
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-          
-          
+One short technical note per contribution, covering something that was not in the documentation.
 
-</div>
+- [POST_TITLE](POST_URL)
 
-###
+---
 
-<div align="left">
-  <a href="mailto:shahzainshafique173@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/shahzainshafique/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### Contact
 
-###
+[Email](mailto:shahzainshafique1@yahoo.com) · [LinkedIn](https://www.linkedin.com/in/shahzainshafique/)
+
+Open to conversations about software engineering projects.
