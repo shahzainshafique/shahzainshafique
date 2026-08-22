@@ -13,6 +13,8 @@ I work on the parts of a system that are load-bearing and unglamorous: build too
 |---|---|---|
 | ansvisor ([REPO_URL](https://github.com/ansvisor/ansvisor/)) | Fixes slug collisions by transliterating non-ASCII characters before stripping, centralizes the logic in a shared helper, and adds coverage for Turkish and other accented characters without backfilling existing slugs. ([PR_URL](https://github.com/ansvisor/ansvisor/pull/763)) | Merged |
 | hummingbird-react ([REPO_URL](https://github.com/hummingbirdui/hummingbird-react)) | Adds a Skeleton component for loading placeholders. ([PR_URL](https://github.com/hummingbirdui/hummingbird-react/pull/29)) | In Review |
+| kana-dojo ([REPO_URL](https://github.com/lingdojo/kana-dojo)) | Add new Video Game Quote. ([PR_URL](https://github.com/lingdojo/kana-dojo/pull/28913)) | Merged |
+
 
 Review participation and smaller fixes are visible in my [public activity](https://github.com/shahzainshafique?tab=overview).
 
