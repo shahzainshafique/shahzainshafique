@@ -16,6 +16,7 @@ I work on the parts of a system that are load-bearing and unglamorous: build too
 | kana-dojo ([REPO_URL](https://github.com/lingdojo/kana-dojo)) | Add new Video Game Quote. ([PR_URL](https://github.com/lingdojo/kana-dojo/pull/28913)) | Merged |
 | ansvisor ([REPO_URL](https://github.com/ansvisor/ansvisor/)) | Optimized brand result checks by replacing an expensive `COUNT(*)` scan with a boolean existence query that stops at the first match, reducing ~16,500 buffer reads to 2. ([PR_URL](https://github.com/ansvisor/ansvisor/pull/789)) | Merged |
 | ansvisor ([REPO_URL](https://github.com/ansvisor/ansvisor/)) | Fixed merchant domain extraction for scheme-less URLs to ensure shopping cards are grouped correctly. ([PR_URL](https://github.com/ansvisor/ansvisor/pull/888)) | Merged |
+| ansvisor ([REPO_URL](https://github.com/ansvisor/ansvisor/)) | Fixed serialize concurrent refreshes of a brand's citation rollups. ([PR_URL](https://github.com/ansvisor/ansvisor/pull/1131)) | Merged |
 
 
 Review participation and smaller fixes are visible in my [public activity](https://github.com/shahzainshafique?tab=overview).
